@@ -23,5 +23,6 @@ This is what this template looks like
 ![this is what theme looks like](https://github.com/turboblack/DOS11_template_for_HamsterCMS/blob/main/11.png)
 
 to change footer - edit footer.txt in the includes folder
+
 to change Links - edit links.txt in the includes folder
 
