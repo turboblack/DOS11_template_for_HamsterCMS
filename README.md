@@ -1,4 +1,4 @@
-# DOS11 appearance template for HamsterCMS without Bootstrap (386) simple clean code
+# DOS11 - its a DOS appearance template for HamsterCMS without Bootstrap (386) simple clean code
 
 HTML4 template with a design similar to DOS programs
 
