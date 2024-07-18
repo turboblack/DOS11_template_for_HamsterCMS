@@ -1,0 +1,2 @@
+# DOS11_template_for_HamsterCMS
+DOS11_template_for_HamsterCMS
