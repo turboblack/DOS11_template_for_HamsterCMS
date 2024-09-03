@@ -26,3 +26,15 @@ to change footer - edit footer.txt in the includes folder
 
 to change Links - edit links.txt in the includes folder
 
+
+I invite you to visit the hosting that runs on this CMS
+
+http://w10.host
+
+works with both old and new technologies, and backward compatible
+
+Enjoy your use.
+
+**to support the project - PAYPAL: turboblack@ukr.net**
+
+thank you for your attention
